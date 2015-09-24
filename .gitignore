@@ -17,6 +17,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#Unnecessary folders
+*.jpg
+*.png
+node_modules
+
 # =========================
 # Operating System Files
 # =========================

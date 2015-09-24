@@ -1,0 +1,47 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #423A3A;
+}
+.container-fluid {
+  width: 60%;
+  text-align: center;
+}
+.header {
+  font-family: 'Passion One', cursive;
+  color: #000;
+  font-size: 120px;
+}
+.subHeader,
+.headerText {
+  font-family: 'Passion One', cursive;
+  color: #000;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.progContent {
+  margin-top: 30px;
+}
+.content ul {
+  margin-left: -30px;
+}
+.content ul li {
+  list-style-type: none;
+  margin-bottom: 5px;
+}
+.contTitle {
+  font-weight: 800;
+  font-size: 20px;
+}
+.contStack {
+  color: #19999a;
+}
+.contLink {
+  font-weight: 800;
+}
+.gContentImg {
+  border-radius: 100px;
+  width: 130px;
+  height: 130px;
+  margin-left: 10px;
+  box-shadow: 5px 5px 5px #bfb0aa;
+}
